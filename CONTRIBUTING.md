@@ -1,16 +1,19 @@
 # Contributing to Developer Resources
 
-First off, Thanks for taking the time to contribute! 👍
+First off, thanks for taking the time to contribute! 👍
 
-This is a list of **resources** for learning and improving as you grow in your career as a developer or an individual contributor:
+This is a list of **resources** for learning and improving as you grow in your career as a developer or an individual contributor.
 
+But by no means, this is a complete list. If you have good topics/suggestions, then please follow the guidelines below on how you can contribute and help other developers.
+
+- [**Getting Started**](#Getting-Started)
 - [**Adding Resources**](#Adding-Resources)
 - [**Submitting a Fix**](#Submitting-a-Fix)
 - [**Proposing New Features**](#Proposing-New-Features)
 
 ## Getting Started
 
-1. If you are new to Git and Github, it is advisable you go through [Github Quickstart](https://docs.github.com/en/get-started/quickstart)
+1. If you are new to Git and GitHub, it is advisable you go through [GitHub Quickstart](https://docs.github.com/en/get-started/quickstart)
 
 2. Fork this Repository [**here**](https://github.com/raunakkathuria/developer-resources/fork)
 
@@ -21,12 +24,12 @@ This is a list of **resources** for learning and improving as you grow in your c
 
 ## Adding Resources
 
-1. Check if the resources you want to add is already included. If not, then you can proceed!
+1. Check if the resource you want to add is already included. If not, then you can proceed!
 
-2. Add your resources under respective topic, follow the pattern of the already existing resources. It should include:
+2. Add your resources under the respective topic, and follow the pattern of the already existing resources. It should include:
 
-    - **Topic** of the resources (easy to categorize)
-    - **A brief description** of its content and other related information.
+    - The **topic** of the resources (easy to categorize)
+    - A **brief description** of its content and other related information.
 
     <br>
     Here are a **few examples**:
@@ -37,6 +40,8 @@ This is a list of **resources** for learning and improving as you grow in your c
 3. If you want to create a new topic for the resources, kindly [**open an issue**](https://github.com/raunakkathuria/developer-resources/issues) to let the maintainers know of this new category before creating one.
 
 4. Open a **pull request**, with a short descriptive `branch name` and `commit messages` 
+
+5. It is not mandatory but good to have approval of your pull requests from at-least two other contributors to maintain the quality of resources.
 
 ## Submitting a Fix
 
