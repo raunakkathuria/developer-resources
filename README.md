@@ -4,7 +4,7 @@ A list of useful resources for a developer as they progress through their career
 
 Each topic has resource(s) listed as per what is the best-though opinionated-reading materials, related course, or corresponding video for each topic.
 
-The resources listed here are language and technology-agnostic, except the database topic, where PostgreSQL is listed. I would suggest referring to https://roadmap.sh/ for a roadmap specific to your career path.
+The resources listed here are language and technology-agnostic, except the database topic, where PostgreSQL is listed. Refer to https://roadmap.sh/ for a roadmap specific to your career path.
 
 For more computer science topics, or if you are just starting as a computer science graduate, I would highly recommend referring to https://teachyourselfcs.com/. They have structured the content really well, and most of the references are inspired from that site.
 
