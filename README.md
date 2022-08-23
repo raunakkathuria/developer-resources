@@ -16,13 +16,6 @@ If you are starting as a developer, it's very important to have a strong base to
 
 Study all the topics below, in roughly the presented order, using either the suggested reading, video or course materials.
 
-### Programming
-
-Reading
-- 
-Video
-Course
-
 | Topic                 | Reading                                                                                                                  | Video                                                                                                                                                                                                                                                                | Course                                                                                                                                                                             |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Programming           | [SICP Book](https://web.mit.edu/6.001/6.037/sicp.pdf): Structure and Interpretation of Computer Programs                                               | [SICP Video](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/): MIT Video course for SICP                                                                                                                                      | [Coursera programming language](https://www.coursera.org/learn/programming-languages) <br><br> [Coursera programming language - part b](https://www.coursera.org/learn/programming-languages-part-b) <br><br> [Coursera programming language - part c](https://www.coursera.org/learn/programming-languages-part-c) |
