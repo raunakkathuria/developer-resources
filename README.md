@@ -1,6 +1,6 @@
 # Useful resources for a developer career path
 
-A list of useful resources for a developer as they progress through their career.
+A list of useful resources for developers as they progress through their career.
 
 Each topic has resource(s) listed as per what is the best-though opinionated-reading materials, related course, or corresponding video for each topic.
 
