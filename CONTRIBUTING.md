@@ -49,7 +49,7 @@ If you ever noticed a bug or anything worth fixing, feel free to [**open an issu
 
 ## Proposing New Features
 
-Have some new exciting features you would like to add? Let our maintainers know first. [**Open an issue**](https://github.com/raunakkathuria/developer-resources/issues) describing this new feature and why you think it should be included.
+Have some new exciting features you would like to add? [**Open an issue**](https://github.com/raunakkathuria/developer-resources/issues) describing this new feature and why you think it should be included.
 
 ## Licence
 [MIT](https://opensource.org/licenses/MIT)
